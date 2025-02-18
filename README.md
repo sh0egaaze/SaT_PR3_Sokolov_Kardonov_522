@@ -6,4 +6,4 @@
 * *панель локальных переменных.*
 
 **Скриншот результата выполнения программы:**
-![image.png(./resources/result.png)](./MainWindow.xaml.cs)
+![image.png(./SaT_PR3_Sokolov_Kardonov_522/resources/result.png)](./SaT_PR3_Sokolov_Kardonov_522/MainWindow.xaml.cs)
