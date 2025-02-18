@@ -7,4 +7,4 @@
 
 **Скриншот результата выполнения программы:**
 
-[![image.webp](./resources/result.webp)](https://github.com/sh0egaaze/SaT_PR3_Sokolov_Kardonov_522/blob/master/SaT_PR3_Sokolov_Kardonov_522/MainWindow.xaml.cs)
+[![image.webp](./SaT_PR3_Sokolov_Kardonov_522/resources/result.webp)](https://github.com/sh0egaaze/SaT_PR3_Sokolov_Kardonov_522/blob/master/SaT_PR3_Sokolov_Kardonov_522/MainWindow.xaml.cs)
